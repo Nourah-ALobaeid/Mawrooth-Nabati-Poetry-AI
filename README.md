@@ -16,7 +16,7 @@
 
 ## 📄 Project Materials
 
-All project materials are available in the [`Project Info`](Project%20Info/) folder:
+All project materials are available in the [`Project Info`](Project%20Info/) and [`demo`](demo/) folders:
 
 - 📊 **Poster** (English)
 - 📁 **Portfolio** (Arabic & English)
