@@ -20,6 +20,8 @@ All project materials are available in the [`Project Info`](Project%20Info/) fol
 
 - 📊 **Poster** (English)
 - 📁 **Portfolio** (Arabic & English)
+- 🖼 **Screenshot**
+- 🎥 **Demo**
 
 ---
 
