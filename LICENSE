@@ -1,21 +1,39 @@
-MIT License
+Mawrooth – Custom License
+Copyright (c) 2026 Nourah Khaled Alobaeid. All rights reserved.
 
-Copyright (c) 2026 Nourah Khaled Alobaeid
+1. PERMITTED USE
+   This project, including its model, dataset, dictionary, code, and 
+   associated materials, is made publicly available for the following 
+   purposes only:
+   - Personal, educational, and research use.
+   - Non-commercial evaluation and testing.
+   - Academic citation with proper attribution.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+2. PROHIBITED USE
+   The following actions are strictly prohibited without prior written 
+   permission from the copyright holder:
+   - Commercial use of any kind.
+   - Redistribution, sublicensing, or selling of the model, dataset, 
+     dictionary, or code.
+   - Modifying, fine-tuning, or building derivative works for 
+     commercial purposes.
+   - Using the project or its components in commercial products or 
+     services.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+3. COMMERCIAL LICENSING
+   For commercial use, partnership, or licensing inquiries, please 
+   contact:
+   Nourah Khaled Alobaeid
+   Email: nourahalobaeid@gmail.com
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+4. ATTRIBUTION
+   Any permitted use must include clear attribution to the original 
+   author and a link to this repository.
+
+5. NO WARRANTY
+   This project is provided "as is" without warranty of any kind. The 
+   author is not liable for any damages arising from its use.
+
+6. RESERVATION OF RIGHTS
+   All rights not explicitly granted in this license are reserved by 
+   the copyright holder.
